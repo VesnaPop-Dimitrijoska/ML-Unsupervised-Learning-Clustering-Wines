@@ -22,7 +22,7 @@ This is Unsupervised Learning model - Agglomerative and kMeans Clustering was pe
 #
 
 ---
-# CONCLUSION from preliminary analysis of a dataset:
+# Preliminary analysis of a dataset:
 ---
 ### Shape of a Dataset:     
 Shape of the dataset is: 178 rows x 13 columns.
@@ -47,7 +47,7 @@ The summary statistics for the numerical columns in the dataset shows quick over
 
 
 ---
-# CONCLUSION from EDA:
+# Exploratory Data Analysis:
 ## 
 
 
